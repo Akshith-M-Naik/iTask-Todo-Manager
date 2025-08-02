@@ -3,6 +3,7 @@
 ![iTask Logo](public/todo-list.webp)
 
 iTask is a straightforward and intuitive web application designed to help you manage your daily tasks efficiently. Built with React and styled using Tailwind CSS, it offers a clean interface for adding, editing, deleting, and tracking your to-do items.
+<a href="https://i-task-todo-manager.vercel.app/" target="_blank">
 
 ## Table of Contents
 
